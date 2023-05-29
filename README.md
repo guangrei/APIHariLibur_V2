@@ -1,7 +1,8 @@
-# APIHariLibur_V2
-API data hari libur yang paling akurat dan slalu up to date.
+[![status workflow](https://github.com/guangrei/APIHariLibur_V2/actions/workflows/minify-json.yml/badge.svg)](https://github.com/guangrei/APIHariLibur_V2/actions)
 
-data bersumber dari google calendar dan otomatis diperbarui.
+APIHariLibur_V2 peningkatan dari api [Json Indonesia holiday](https://github.com/guangrei/Json-Indonesia-holidays).
+
+data masih bersumber dari google calendar dan otomatis diperbarui.
 
 calendar.json: https://raw.githubusercontent.com/guangrei/APIHariLibur_V2/main/calendar.json
 
