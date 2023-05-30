@@ -7,3 +7,13 @@ data masih bersumber dari google calendar dan otomatis diperbarui.
 calendar.json: https://raw.githubusercontent.com/guangrei/APIHariLibur_V2/main/calendar.json
 
 calendar.min.json: https://raw.githubusercontent.com/guangrei/APIHariLibur_V2/main/calendar.min.json
+
+### Showcase 
+
+- [pytanggalmerah](https://github.com/guangrei/pytanggalmerah) (lib python)
+
+- [phptanggalmerah](https://github.com/guangrei/phptanggalmerah) (lib php)
+
+
+
+(untuk menambahkan project kamu silahkan. buat  `pr`  atau  `open issue` )
