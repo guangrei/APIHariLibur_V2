@@ -46,13 +46,13 @@
     },
     "2023-03-23": {
         "description": [
-            "Perayaan",
-            "Hari libur nasional"
+            "Hari libur nasional",
+            "Perayaan"
         ],
         "holiday": true,
         "summary": [
-            "Ramadan Start",
-            "Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka)"
+            "Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka)",
+            "Ramadan Start"
         ]
     },
     "2023-04-07": {
@@ -93,13 +93,13 @@
     },
     "2023-04-21": {
         "description": [
-            "Hari libur nasional",
-            "Perayaan"
+            "Perayaan",
+            "Hari libur nasional"
         ],
         "holiday": true,
         "summary": [
-            "Cuti Bersama Idul Fitri",
-            "Hari Kartini"
+            "Hari Kartini",
+            "Cuti Bersama Idul Fitri"
         ]
     },
     "2023-04-22": {
@@ -235,8 +235,8 @@
         ],
         "holiday": false,
         "summary": [
-            "Diwali",
-            "Hari Ayah"
+            "Hari Ayah",
+            "Diwali"
         ]
     },
     "2023-11-25": {
@@ -512,6 +512,6 @@
     "info": {
         "author": "guangrei",
         "link": "https://github.com/guangrei",
-        "updated": "20230529 02:02:39"
+        "updated": "20230602 04:04:43"
     }
 }
