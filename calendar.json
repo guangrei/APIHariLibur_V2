@@ -320,6 +320,15 @@
             "Tahun Baru Imlek"
         ]
     },
+    "2024-03-11": {
+        "description": [
+            "Hari libur nasional"
+        ],
+        "holiday": true,
+        "summary": [
+            "Hari Suci Nyepi (Tahun Baru Saka)"
+        ]
+    },
     "2024-03-12": {
         "description": [
             "Perayaan"
@@ -347,7 +356,7 @@
             "Hari Paskah"
         ]
     },
-    "2024-04-11": {
+    "2024-04-10": {
         "description": [
             "Hari libur nasional"
         ],
@@ -356,7 +365,7 @@
             "Hari Idul Fitri"
         ]
     },
-    "2024-04-12": {
+    "2024-04-11": {
         "description": [
             "Hari libur nasional"
         ],
@@ -392,6 +401,15 @@
             "Kenaikan Isa Al Masih"
         ]
     },
+    "2024-05-23": {
+        "description": [
+            "Hari libur nasional"
+        ],
+        "holiday": true,
+        "summary": [
+            "Hari Raya Waisak"
+        ]
+    },
     "2024-06-01": {
         "description": [
             "Hari libur nasional"
@@ -401,7 +419,7 @@
             "Hari Lahir Pancasila"
         ]
     },
-    "2024-06-18": {
+    "2024-06-17": {
         "description": [
             "Hari libur nasional"
         ],
@@ -410,7 +428,7 @@
             "Idul Adha (Lebaran Haji)"
         ]
     },
-    "2024-07-08": {
+    "2024-07-07": {
         "description": [
             "Hari libur nasional"
         ],
@@ -428,7 +446,7 @@
             "Hari Proklamasi Kemerdekaan R.I."
         ]
     },
-    "2024-09-16": {
+    "2024-09-15": {
         "description": [
             "Hari libur nasional"
         ],
@@ -512,6 +530,6 @@
     "info": {
         "author": "guangrei",
         "link": "https://github.com/guangrei",
-        "updated": "20230602 04:04:43"
+        "updated": "20230615 04:04:37"
     }
 }
