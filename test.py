@@ -19,6 +19,8 @@ class JsonTest(unittest.TestCase):
 	def test_calendarmin(self):
 		self.assertTrue(coba("calendar.min.json"))
 
+    def test_holidays(self):
+		self.assertTrue(coba("holidays.json"))
 
 if __name__ == '__main__':
 	unittest.main()

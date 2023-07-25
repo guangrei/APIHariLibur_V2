@@ -1,6 +1,0 @@
-name: Action Build
-description: build holidays.json
-
-runs:
-  using: docker
-  image: Dockerfile
