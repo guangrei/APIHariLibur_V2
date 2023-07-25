@@ -13,13 +13,14 @@ def coba(jsfile):
 		return False
 
 class JsonTest(unittest.TestCase):
+	
 	def test_calendar(self):
 		self.assertTrue(coba("calendar.json"))
 	
 	def test_calendarmin(self):
 		self.assertTrue(coba("calendar.min.json"))
 
-    def test_holidays(self):
+	def test_holidays(self):
 		self.assertTrue(coba("holidays.json"))
 
 if __name__ == '__main__':
