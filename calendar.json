@@ -311,6 +311,15 @@
             "Isra Mikraj Nabi Muhammad"
         ]
     },
+    "2024-02-09": {
+        "description": [
+            "Hari libur nasional"
+        ],
+        "holiday": true,
+        "summary": [
+            "Cuti Bersama Tahun Baru Imlek"
+        ]
+    },
     "2024-02-10": {
         "description": [
             "Hari libur nasional"
@@ -331,11 +340,13 @@
     },
     "2024-03-12": {
         "description": [
-            "Perayaan"
+            "Perayaan",
+            "Hari libur nasional"
         ],
-        "holiday": false,
+        "holiday": true,
         "summary": [
-            "Ramadan Start"
+            "Ramadan Start",
+            "Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka)"
         ]
     },
     "2024-03-29": {
@@ -349,11 +360,29 @@
     },
     "2024-03-31": {
         "description": [
-            "Perayaan"
+            "Hari libur nasional"
         ],
-        "holiday": false,
+        "holiday": true,
         "summary": [
             "Hari Paskah"
+        ]
+    },
+    "2024-04-08": {
+        "description": [
+            "Hari libur nasional"
+        ],
+        "holiday": true,
+        "summary": [
+            "Cuti Bersama Idul Fitri"
+        ]
+    },
+    "2024-04-09": {
+        "description": [
+            "Hari libur nasional"
+        ],
+        "holiday": true,
+        "summary": [
+            "Cuti Bersama Idul Fitri"
         ]
     },
     "2024-04-10": {
@@ -372,6 +401,24 @@
         "holiday": true,
         "summary": [
             "Hari Idul Fitri"
+        ]
+    },
+    "2024-04-12": {
+        "description": [
+            "Hari libur nasional"
+        ],
+        "holiday": true,
+        "summary": [
+            "Cuti Bersama Idul Fitri"
+        ]
+    },
+    "2024-04-15": {
+        "description": [
+            "Hari libur nasional"
+        ],
+        "holiday": true,
+        "summary": [
+            "Cuti Bersama Idul Fitri"
         ]
     },
     "2024-04-21": {
@@ -401,6 +448,15 @@
             "Kenaikan Isa Al Masih"
         ]
     },
+    "2024-05-10": {
+        "description": [
+            "Hari libur nasional"
+        ],
+        "holiday": true,
+        "summary": [
+            "Cuti Bersama Kenaikan Isa Al Masih"
+        ]
+    },
     "2024-05-23": {
         "description": [
             "Hari libur nasional"
@@ -408,6 +464,15 @@
         "holiday": true,
         "summary": [
             "Hari Raya Waisak"
+        ]
+    },
+    "2024-05-24": {
+        "description": [
+            "Hari libur nasional"
+        ],
+        "holiday": true,
+        "summary": [
+            "Cuti Bersama Waisak"
         ]
     },
     "2024-06-01": {
@@ -420,6 +485,15 @@
         ]
     },
     "2024-06-17": {
+        "description": [
+            "Hari libur nasional"
+        ],
+        "holiday": true,
+        "summary": [
+            "Idul Adha (Lebaran Haji)"
+        ]
+    },
+    "2024-06-18": {
         "description": [
             "Hari libur nasional"
         ],
@@ -518,6 +592,15 @@
             "Hari Raya Natal"
         ]
     },
+    "2024-12-26": {
+        "description": [
+            "Hari libur nasional"
+        ],
+        "holiday": true,
+        "summary": [
+            "Cuti Bersama Natal (Hari Tinju)"
+        ]
+    },
     "2024-12-31": {
         "description": [
             "Perayaan"
@@ -530,6 +613,6 @@
     "info": {
         "author": "guangrei",
         "link": "https://github.com/guangrei",
-        "updated": "20230615 04:04:37"
+        "updated": "20230927 17:05:32"
     }
 }
