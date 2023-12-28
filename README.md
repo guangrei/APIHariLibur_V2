@@ -20,6 +20,6 @@ holidays.json: https://raw.githubusercontent.com/guangrei/APIHariLibur_V2/main/h
 
 - [phptanggalmerah](https://github.com/guangrei/phptanggalmerah) (lib php)
 
-
+- [go_holiday](https://github.com/cirebon-dev/go_holiday) (go package)
 
 (untuk menambahkan project kamu silahkan. buat  `pr`  atau  `open issue` )
