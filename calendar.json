@@ -35,6 +35,15 @@
             "Tahun Baru Imlek"
         ]
     },
+    "2024-02-14": {
+        "description": [
+            "Hari libur nasional"
+        ],
+        "holiday": true,
+        "summary": [
+            "Hari Pemilihan"
+        ]
+    },
     "2024-03-11": {
         "description": [
             "Hari libur nasional"
@@ -544,6 +553,6 @@
     "info": {
         "author": "guangrei",
         "link": "https://github.com/guangrei",
-        "updated": "20240101 17:05:44"
+        "updated": "20240119 17:05:46"
     }
 }
