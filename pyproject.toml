@@ -1,0 +1,16 @@
+[project]
+name = "htmlcalendar"
+version = "0.1.0"
+description = "Generate Indonesian holidays HTML calendar"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.12.3",
+    "lesley>=0.2.1",
+    "requests>=2.32.3",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.9.4",
+]
