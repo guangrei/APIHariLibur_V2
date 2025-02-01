@@ -1,6 +1,4 @@
-[![status workflow](https://github.com/guangrei/APIHariLibur_V2/actions/workflows/python-app.yml/badge.svg)](https://github.com/guangrei/APIHariLibur_V2/actions)
-
-[![RSS](rss.svg)](https://github.com/guangrei/APIHariLibur_V2/commits.atom)
+[![status workflow](https://github.com/guangrei/APIHariLibur_V2/actions/workflows/python-app.yml/badge.svg)](https://github.com/guangrei/APIHariLibur_V2/actions) [![RSS](https://img.shields.io/badge/RSS-Atom%2B-orange)](https://github.com/guangrei/APIHariLibur_V2/commits.atom)
 
 APIHariLibur_V2 adalah peningkatan dari api [Json Indonesia holiday](https://github.com/guangrei/Json-Indonesia-holidays).
 
@@ -17,6 +15,10 @@ calendar.min.json: https://raw.githubusercontent.com/guangrei/APIHariLibur_V2/ma
 holidays.json: https://raw.githubusercontent.com/guangrei/APIHariLibur_V2/main/holidays.json
 
 ### Showcase 
+
+- [HTMLCalendar](https://github.com/guangrei/APIHariLibur_V2/tree/gh-pages)
+
+- [REST-API](https://guangrei.github.io/read/2024/03/10/api-hari-libur/)
 
 - [pytanggalmerah](https://github.com/guangrei/pytanggalmerah) (lib python)
 
