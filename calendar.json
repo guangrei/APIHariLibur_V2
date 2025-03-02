@@ -35,13 +35,13 @@
             "Tahun Baru Imlek"
         ]
     },
-    "2025-03-02": {
+    "2025-03-01": {
         "description": [
             "Perayaan"
         ],
         "holiday": false,
         "summary": [
-            "Ramadan Start (belum pasti)"
+            "Ramadan Start"
         ]
     },
     "2025-03-28": {
@@ -281,6 +281,6 @@
     "info": {
         "author": "guangrei",
         "link": "https://github.com/guangrei",
-        "updated": "20250129 17:05:27"
+        "updated": "20250302 17:05:54"
     }
 }
