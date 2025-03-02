@@ -1,4 +1,4 @@
-[![status workflow](https://github.com/guangrei/APIHariLibur_V2/actions/workflows/python-app.yml/badge.svg)](https://github.com/guangrei/APIHariLibur_V2/actions) [![RSS](https://img.shields.io/badge/RSS-Atom%2B-orange)](https://github.com/guangrei/APIHariLibur_V2/commits.atom)
+[![status workflow](https://github.com/guangrei/APIHariLibur_V2/actions/workflows/python-app.yml/badge.svg)](https://github.com/guangrei/APIHariLibur_V2/actions) [![RSS](https://img.shields.io/badge/RSS-atom-orange)](https://github.com/guangrei/APIHariLibur_V2/commits.atom)
 
 APIHariLibur_V2 adalah peningkatan dari api [Json Indonesia holiday](https://github.com/guangrei/Json-Indonesia-holidays).
 
