@@ -3,25 +3,26 @@ import unittest
 import json
 
 
-def coba(jsfile):
-	try:
-		with open(jsfile, 'r') as f:
-			js = json.loads(f.read())
-		return True
-	except BaseException as e:
-		print(str(e))
-		return False
+def coba(jsfile: str) -> bool:
+    try:
+        with open(jsfile, "r") as f:
+            json.loads(f.read())
+        return True
+    except BaseException as e:
+        print(e)
+        return False
+
 
 class JsonTest(unittest.TestCase):
-	
-	def test_calendar(self):
-		self.assertTrue(coba("calendar.json"))
-	
-	def test_calendarmin(self):
-		self.assertTrue(coba("calendar.min.json"))
+    def test_calendar(self) -> None:
+        self.assertTrue(coba("calendar.json"))
 
-	def test_holidays(self):
-		self.assertTrue(coba("holidays.json"))
+    def test_calendarmin(self) -> None:
+        self.assertTrue(coba("calendar.min.json"))
 
-if __name__ == '__main__':
-	unittest.main()
+    def test_holidays(self) -> None:
+        self.assertTrue(coba("holidays.json"))
+
+
+if __name__ == "__main__":
+    unittest.main()
