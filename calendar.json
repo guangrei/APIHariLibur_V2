@@ -68,7 +68,7 @@
         ],
         "holiday": true,
         "summary": [
-            "Hari Idul Fitri (belum pasti)"
+            "Hari Idul Fitri"
         ]
     },
     "2025-04-01": {
@@ -77,7 +77,7 @@
         ],
         "holiday": true,
         "summary": [
-            "Hari Idul Fitri (belum pasti)"
+            "Hari Idul Fitri"
         ]
     },
     "2025-04-02": {
@@ -281,6 +281,6 @@
     "info": {
         "author": "guangrei",
         "link": "https://github.com/guangrei",
-        "updated": "20250302 17:05:54"
+        "updated": "20250330 17:05:40"
     }
 }
