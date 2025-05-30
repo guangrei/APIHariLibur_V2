@@ -194,7 +194,7 @@
         ],
         "holiday": true,
         "summary": [
-            "Idul Adha (Lebaran Haji) (belum pasti)"
+            "Idul Adha (Lebaran Haji)"
         ]
     },
     "2025-06-09": {
@@ -281,6 +281,6 @@
     "info": {
         "author": "guangrei",
         "link": "https://github.com/guangrei",
-        "updated": "20250330 17:05:40"
+        "updated": "20250530 17:05:36"
     }
 }
