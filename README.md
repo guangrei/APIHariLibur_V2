@@ -18,7 +18,7 @@ holidays.json: https://raw.githubusercontent.com/guangrei/APIHariLibur_V2/main/h
 
 - [HTMLCalendar](https://github.com/guangrei/APIHariLibur_V2/tree/gh-pages)
 
-- [REST-API](https://guangrei.github.io/read/2024/03/10/api-hari-libur/)
+- [REST-API](https://guangrei.github.io/read/2025/06/24/api-hari-libur/)
 
 - [pytanggalmerah](https://github.com/guangrei/pytanggalmerah) (lib python)
 
