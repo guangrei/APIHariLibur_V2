@@ -212,7 +212,7 @@
         ],
         "holiday": true,
         "summary": [
-            "Satu Muharam / Tahun Baru Hijriah (belum pasti)"
+            "Satu Muharam / Tahun Baru Hijriah"
         ]
     },
     "2025-08-17": {
@@ -281,6 +281,6 @@
     "info": {
         "author": "guangrei",
         "link": "https://github.com/guangrei",
-        "updated": "20250530 17:05:36"
+        "updated": "20250628 17:05:25"
     }
 }
