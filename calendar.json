@@ -194,7 +194,7 @@
         ],
         "holiday": true,
         "summary": [
-            "Idul Adha (Lebaran Haji)"
+            "Idul Adha (Lebaran Haji) (belum pasti)"
         ]
     },
     "2025-06-09": {
@@ -212,7 +212,7 @@
         ],
         "holiday": true,
         "summary": [
-            "Satu Muharam / Tahun Baru Hijriah"
+            "Satu Muharam / Tahun Baru Hijriah (belum pasti)"
         ]
     },
     "2025-08-17": {
@@ -281,6 +281,6 @@
     "info": {
         "author": "guangrei",
         "link": "https://github.com/guangrei",
-        "updated": "20250628 17:05:25"
+        "updated": "20250704 17:05:56"
     }
 }
