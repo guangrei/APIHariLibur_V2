@@ -239,7 +239,7 @@
         ],
         "holiday": true,
         "summary": [
-            "Maulid Nabi Muhammad (belum pasti)"
+            "Maulid Nabi Muhammad"
         ]
     },
     "2025-10-21": {
@@ -290,6 +290,6 @@
     "info": {
         "author": "guangrei",
         "link": "https://github.com/guangrei",
-        "updated": "20250814 17:05:57"
+        "updated": "20250904 17:05:09"
     }
 }
