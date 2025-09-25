@@ -296,13 +296,22 @@
             "Hari Tahun Baru"
         ]
     },
-    "2026-01-17": {
+    "2026-01-16": {
         "description": [
             "Hari libur nasional"
         ],
         "holiday": true,
         "summary": [
             "Isra Mikraj Nabi Muhammad (belum pasti)"
+        ]
+    },
+    "2026-02-16": {
+        "description": [
+            "Hari libur nasional"
+        ],
+        "holiday": true,
+        "summary": [
+            "Cuti Bersama Tahun Baru Imlek"
         ]
     },
     "2026-02-17": {
@@ -323,6 +332,33 @@
             "1 Ramadan (belum pasti)"
         ]
     },
+    "2026-03-18": {
+        "description": [
+            "Hari libur nasional"
+        ],
+        "holiday": true,
+        "summary": [
+            "Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka)"
+        ]
+    },
+    "2026-03-19": {
+        "description": [
+            "Hari libur nasional"
+        ],
+        "holiday": true,
+        "summary": [
+            "Hari Suci Nyepi (Tahun Baru Saka)"
+        ]
+    },
+    "2026-03-20": {
+        "description": [
+            "Hari libur nasional"
+        ],
+        "holiday": true,
+        "summary": [
+            "Cuti Bersama Idul Fitri"
+        ]
+    },
     "2026-03-21": {
         "description": [
             "Hari libur nasional"
@@ -341,6 +377,24 @@
             "Hari Idul Fitri (belum pasti)"
         ]
     },
+    "2026-03-23": {
+        "description": [
+            "Hari libur nasional"
+        ],
+        "holiday": true,
+        "summary": [
+            "Cuti Bersama Idul Fitri"
+        ]
+    },
+    "2026-03-24": {
+        "description": [
+            "Hari libur nasional"
+        ],
+        "holiday": true,
+        "summary": [
+            "Cuti Bersama Idul Fitri"
+        ]
+    },
     "2026-04-03": {
         "description": [
             "Hari libur nasional"
@@ -352,9 +406,9 @@
     },
     "2026-04-05": {
         "description": [
-            "Perayaan"
+            "Hari libur nasional"
         ],
-        "holiday": false,
+        "holiday": true,
         "summary": [
             "Hari Paskah"
         ]
@@ -377,13 +431,31 @@
             "Kenaikan Isa Al Masih"
         ]
     },
-    "2026-05-28": {
+    "2026-05-15": {
+        "description": [
+            "Hari libur nasional"
+        ],
+        "holiday": true,
+        "summary": [
+            "Cuti Bersama Kenaikan Isa Al Masih"
+        ]
+    },
+    "2026-05-27": {
         "description": [
             "Hari libur nasional"
         ],
         "holiday": true,
         "summary": [
             "Idul Adha (Lebaran Haji) (belum pasti)"
+        ]
+    },
+    "2026-05-28": {
+        "description": [
+            "Hari libur nasional"
+        ],
+        "holiday": true,
+        "summary": [
+            "Idul Adha (Lebaran Haji)"
         ]
     },
     "2026-05-31": {
@@ -404,7 +476,7 @@
             "Hari Lahir Pancasila"
         ]
     },
-    "2026-06-17": {
+    "2026-06-16": {
         "description": [
             "Hari libur nasional"
         ],
@@ -422,7 +494,7 @@
             "Hari Proklamasi Kemerdekaan R.I."
         ]
     },
-    "2026-08-26": {
+    "2026-08-25": {
         "description": [
             "Hari libur nasional"
         ],
@@ -433,11 +505,11 @@
     },
     "2026-12-24": {
         "description": [
-            "Perayaan"
+            "Hari libur nasional"
         ],
-        "holiday": false,
+        "holiday": true,
         "summary": [
-            "Malam Natal"
+            "Cuti Bersama Natal (Malam Natal)"
         ]
     },
     "2026-12-25": {
@@ -461,6 +533,6 @@
     "info": {
         "author": "guangrei",
         "link": "https://github.com/guangrei",
-        "updated": "20250924 17:05:29"
+        "updated": "20250925 17:05:20"
     }
 }
