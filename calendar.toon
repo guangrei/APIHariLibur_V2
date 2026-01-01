@@ -1,36 +1,4 @@
-calendar[59,]{date,summary,description,holiday}:
-  2025-12-25,Hari Raya Natal,Hari libur nasional,true
-  2025-01-29,Tahun Baru Imlek,Hari libur nasional,true
-  2025-05-01,Hari Buruh Internasional / Pekerja,Hari libur nasional,true
-  2025-05-29,Kenaikan Isa Al Masih,Hari libur nasional,true
-  2025-06-01,Hari Lahir Pancasila,Hari libur nasional,true
-  2025-08-17,Hari Proklamasi Kemerdekaan R.I.,Hari libur nasional,true
-  2025-10-21,Diwali,Perayaan,false
-  2025-01-01,Hari Tahun Baru,Hari libur nasional,true
-  2025-04-18,Wafat Isa Almasih,Hari libur nasional,true
-  2025-12-24,Malam Natal,Perayaan,false
-  2025-12-31,Malam Tahun Baru,Perayaan,false
-  2025-01-28,Cuti Bersama Tahun Baru Imlek,Hari libur nasional,true
-  2025-03-28,Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka),Hari libur nasional,true
-  2025-03-29,Hari Suci Nyepi (Tahun Baru Saka),Hari libur nasional,true
-  2025-04-02,Cuti Bersama Idul Fitri,Hari libur nasional,true
-  2025-04-03,Cuti Bersama Idul Fitri,Hari libur nasional,true
-  2025-04-04,Cuti Bersama Idul Fitri,Hari libur nasional,true
-  2025-04-07,Cuti Bersama Idul Fitri,Hari libur nasional,true
-  2025-04-20,Hari Paskah,Hari libur nasional,true
-  2025-05-12,Hari Raya Waisak,Hari libur nasional,true
-  2025-05-13,Cuti Bersama Waisak,Hari libur nasional,true
-  2025-05-30,Cuti Bersama Kenaikan Isa Al Masih,Hari libur nasional,true
-  2025-06-09,Idul Adha (Lebaran Haji),Hari libur nasional,true
-  2025-12-26,Cuti Bersama Natal (Hari Tinju),Hari libur nasional,true
-  2025-01-27,Isra Mikraj Nabi Muhammad,Hari libur nasional,true
-  2025-03-31,Hari Idul Fitri,Hari libur nasional,true
-  2025-04-01,Hari Idul Fitri,Hari libur nasional,true
-  2025-06-06,Idul Adha (Lebaran Haji),Hari libur nasional,true
-  2025-06-27,Satu Muharam / Tahun Baru Hijriah,Hari libur nasional,true
-  2025-08-18,Hari Proklamasi Kemerdekaan R.I. observed,Hari libur nasional,true
-  2025-03-01,1 Ramadan,Perayaan,false
-  2025-09-05,Maulid Nabi Muhammad,Hari libur nasional,true
+calendar[27,]{date,summary,description,holiday}:
   2026-01-01,Hari Tahun Baru,Hari libur nasional,true
   2026-02-17,Tahun Baru Imlek,Hari libur nasional,true
   2026-02-20,1 Ramadan (belum pasti),Perayaan,false
