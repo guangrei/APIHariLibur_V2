@@ -12,7 +12,6 @@ calendar[27,]{date,summary,description,holiday}:
   2026-08-17,Hari Proklamasi Kemerdekaan R.I.,Hari libur nasional,true
   2026-12-25,Hari Raya Natal,Hari libur nasional,true
   2026-12-31,Malam Tahun Baru,Perayaan,false
-  2026-01-16,Isra Mikraj Nabi Muhammad (belum pasti),Hari libur nasional,true
   2026-02-16,Cuti Bersama Tahun Baru Imlek,Hari libur nasional,true
   2026-03-18,Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka),Hari libur nasional,true
   2026-03-19,Hari Suci Nyepi (Tahun Baru Saka),Hari libur nasional,true
@@ -26,3 +25,4 @@ calendar[27,]{date,summary,description,holiday}:
   2026-06-16,Satu Muharam / Tahun Baru Hijriah (belum pasti),Hari libur nasional,true
   2026-08-25,Maulid Nabi Muhammad (belum pasti),Hari libur nasional,true
   2026-12-24,Cuti Bersama Natal (Malam Natal),Hari libur nasional,true
+  2026-01-16,Isra Mikraj Nabi Muhammad,Hari libur nasional,true

@@ -10,7 +10,6 @@ holiday[25,]{date,summary}:
   2026-06-01,Hari Lahir Pancasila
   2026-08-17,Hari Proklamasi Kemerdekaan R.I.
   2026-12-25,Hari Raya Natal
-  2026-01-16,Isra Mikraj Nabi Muhammad (belum pasti)
   2026-02-16,Cuti Bersama Tahun Baru Imlek
   2026-03-18,Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka)
   2026-03-19,Hari Suci Nyepi (Tahun Baru Saka)
@@ -24,3 +23,4 @@ holiday[25,]{date,summary}:
   2026-06-16,Satu Muharam / Tahun Baru Hijriah (belum pasti)
   2026-08-25,Maulid Nabi Muhammad (belum pasti)
   2026-12-24,Cuti Bersama Natal (Malam Natal)
+  2026-01-16,Isra Mikraj Nabi Muhammad
