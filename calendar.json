@@ -35,13 +35,13 @@
             "Tahun Baru Imlek"
         ]
     },
-    "2026-02-20": {
+    "2026-02-19": {
         "description": [
             "Perayaan"
         ],
         "holiday": false,
         "summary": [
-            "1 Ramadan (belum pasti)"
+            "1 Ramadan"
         ]
     },
     "2026-03-18": {
@@ -245,6 +245,6 @@
     "info": {
         "author": "guangrei",
         "link": "https://github.com/guangrei",
-        "updated": "20260117 17:05:19"
+        "updated": "20260220 17:05:25"
     }
 }
