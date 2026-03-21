@@ -1,8 +1,6 @@
 calendar[27,]{date,summary,description,holiday}:
   2026-01-01,Hari Tahun Baru,Hari libur nasional,true
   2026-02-17,Tahun Baru Imlek,Hari libur nasional,true
-  2026-03-21,Hari Idul Fitri (belum pasti),Hari libur nasional,true
-  2026-03-22,Hari Idul Fitri (belum pasti),Hari libur nasional,true
   2026-04-03,Wafat Isa Almasih,Hari libur nasional,true
   2026-05-01,Hari Buruh Internasional / Pekerja,Hari libur nasional,true
   2026-05-14,Kenaikan Isa Al Masih,Hari libur nasional,true
@@ -26,3 +24,5 @@ calendar[27,]{date,summary,description,holiday}:
   2026-12-24,Cuti Bersama Natal (Malam Natal),Hari libur nasional,true
   2026-01-16,Isra Mikraj Nabi Muhammad,Hari libur nasional,true
   2026-02-19,1 Ramadan,Perayaan,false
+  2026-03-21,Hari Idul Fitri,Hari libur nasional,true
+  2026-03-22,Hari Idul Fitri,Hari libur nasional,true

@@ -1,8 +1,6 @@
 holiday[25,]{date,summary}:
   2026-01-01,Hari Tahun Baru
   2026-02-17,Tahun Baru Imlek
-  2026-03-21,Hari Idul Fitri (belum pasti)
-  2026-03-22,Hari Idul Fitri (belum pasti)
   2026-04-03,Wafat Isa Almasih
   2026-05-01,Hari Buruh Internasional / Pekerja
   2026-05-14,Kenaikan Isa Al Masih
@@ -24,3 +22,5 @@ holiday[25,]{date,summary}:
   2026-08-25,Maulid Nabi Muhammad (belum pasti)
   2026-12-24,Cuti Bersama Natal (Malam Natal)
   2026-01-16,Isra Mikraj Nabi Muhammad
+  2026-03-21,Hari Idul Fitri
+  2026-03-22,Hari Idul Fitri
