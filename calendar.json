@@ -194,7 +194,16 @@
         ],
         "holiday": true,
         "summary": [
-            "Satu Muharam / Tahun Baru Hijriah (belum pasti)"
+            "Hari Kedua Muharram"
+        ]
+    },
+    "2026-06-17": {
+        "description": [
+            "Perayaan"
+        ],
+        "holiday": false,
+        "summary": [
+            "Satu Muharam / Tahun Baru Hijriah"
         ]
     },
     "2026-08-17": {
@@ -245,6 +254,6 @@
     "info": {
         "author": "guangrei",
         "link": "https://github.com/guangrei",
-        "updated": "20260522 17:05:28"
+        "updated": "20260617 17:05:56"
     }
 }
