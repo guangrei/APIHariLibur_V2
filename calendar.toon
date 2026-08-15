@@ -18,7 +18,6 @@ calendar[28,]{date,summary,description,holiday}:
   2026-04-05,Hari Paskah,Hari libur nasional,true
   2026-05-15,Cuti Bersama Kenaikan Isa Al Masih,Hari libur nasional,true
   2026-05-28,Idul Adha (Lebaran Haji),Hari libur nasional,true
-  2026-08-25,Maulid Nabi Muhammad (belum pasti),Hari libur nasional,true
   2026-12-24,Cuti Bersama Natal (Malam Natal),Hari libur nasional,true
   2026-01-16,Isra Mikraj Nabi Muhammad,Hari libur nasional,true
   2026-02-19,1 Ramadan,Perayaan,false
@@ -27,3 +26,4 @@ calendar[28,]{date,summary,description,holiday}:
   2026-05-27,Idul Adha (Lebaran Haji),Hari libur nasional,true
   2026-06-16,Hari Kedua Muharram,Hari libur nasional,true
   2026-06-17,Satu Muharam / Tahun Baru Hijriah,Perayaan,false
+  2026-08-25,Maulid Nabi Muhammad,Hari libur nasional,true
