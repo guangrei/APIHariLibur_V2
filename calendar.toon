@@ -1,4 +1,4 @@
-calendar[28,]{date,summary,description,holiday}:
+calendar[47,]{date,summary,description,holiday}:
   2026-01-01,Hari Tahun Baru,Hari libur nasional,true
   2026-02-17,Tahun Baru Imlek,Hari libur nasional,true
   2026-04-03,Wafat Isa Almasih,Hari libur nasional,true
@@ -27,3 +27,22 @@ calendar[28,]{date,summary,description,holiday}:
   2026-06-16,Hari Kedua Muharram,Hari libur nasional,true
   2026-06-17,Satu Muharam / Tahun Baru Hijriah,Perayaan,false
   2026-08-25,Maulid Nabi Muhammad,Hari libur nasional,true
+  2027-01-01,Hari Tahun Baru,Hari libur nasional,true
+  2027-01-06,Isra Mikraj Nabi Muhammad (belum pasti),Hari libur nasional,true
+  2027-02-06,Tahun Baru Imlek,Hari libur nasional,true
+  2027-02-09,1 Ramadan (belum pasti),Perayaan,false
+  2027-03-11,Hari Idul Fitri (belum pasti),Hari libur nasional,true
+  2027-03-12,Hari Idul Fitri (belum pasti),Hari libur nasional,true
+  2027-03-26,Wafat Isa Almasih,Hari libur nasional,true
+  2027-03-28,Hari Paskah,Perayaan,false
+  2027-05-01,Hari Buruh Internasional / Pekerja,Hari libur nasional,true
+  2027-05-06,Kenaikan Isa Al Masih,Hari libur nasional,true
+  2027-05-18,Idul Adha (Lebaran Haji) (belum pasti),Hari libur nasional,true
+  2027-06-01,Hari Lahir Pancasila,Hari libur nasional,true
+  2027-06-07,Satu Muharam / Tahun Baru Hijriah (belum pasti),Hari libur nasional,true
+  2027-08-15,Maulid Nabi Muhammad (belum pasti),Hari libur nasional,true
+  2027-08-17,Hari Proklamasi Kemerdekaan R.I.,Hari libur nasional,true
+  2027-12-24,Malam Natal,Perayaan,false
+  2027-12-25,Hari Raya Natal,Hari libur nasional,true
+  2027-12-26,Isra Mikraj Nabi Muhammad (belum pasti),Hari libur nasional,true
+  2027-12-31,Malam Tahun Baru,Perayaan,false

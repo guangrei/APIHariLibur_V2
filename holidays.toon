@@ -1,4 +1,4 @@
-holiday[25,]{date,summary}:
+holiday[40,]{date,summary}:
   2026-01-01,Hari Tahun Baru
   2026-02-17,Tahun Baru Imlek
   2026-04-03,Wafat Isa Almasih
@@ -24,3 +24,18 @@ holiday[25,]{date,summary}:
   2026-05-27,Idul Adha (Lebaran Haji)
   2026-06-16,Hari Kedua Muharram
   2026-08-25,Maulid Nabi Muhammad
+  2027-01-01,Hari Tahun Baru
+  2027-01-06,Isra Mikraj Nabi Muhammad (belum pasti)
+  2027-02-06,Tahun Baru Imlek
+  2027-03-11,Hari Idul Fitri (belum pasti)
+  2027-03-12,Hari Idul Fitri (belum pasti)
+  2027-03-26,Wafat Isa Almasih
+  2027-05-01,Hari Buruh Internasional / Pekerja
+  2027-05-06,Kenaikan Isa Al Masih
+  2027-05-18,Idul Adha (Lebaran Haji) (belum pasti)
+  2027-06-01,Hari Lahir Pancasila
+  2027-06-07,Satu Muharam / Tahun Baru Hijriah (belum pasti)
+  2027-08-15,Maulid Nabi Muhammad (belum pasti)
+  2027-08-17,Hari Proklamasi Kemerdekaan R.I.
+  2027-12-25,Hari Raya Natal
+  2027-12-26,Isra Mikraj Nabi Muhammad (belum pasti)
